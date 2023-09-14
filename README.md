@@ -1,1 +1,1 @@
-# image_generator
+# Generative Adversarial Network (GAN) for generating synthetic images. 
