@@ -1,6 +1,6 @@
 # Generative Adversarial Network (GAN) for generating images. 
 
-How it works<br>
+<h1>•How it works<br><\h1>
 
 
 
