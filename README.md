@@ -12,3 +12,4 @@
 
 <img src="https://media.giphy.com/media/6to2kSnBgjzfA3vbBz/giphy.gif" width="700" height="350">
 
+The dataset used is CelebA :)
