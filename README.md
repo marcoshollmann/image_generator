@@ -8,6 +8,6 @@
 
 • Discriminator: The Discriminator class defines the discriminator network, which aims to distinguish between real and fake images. It also consists of two fully connected layers with ReLU activation functions, followed by a final sigmoid layer for binary classification.<br>
 
-
-<img src="https://media.giphy.com/media/6to2kSnBgjzfA3vbBz/giphy.gif" width="380" height="300">
+GAN Evolution
+<img src="https://media.giphy.com/media/6to2kSnBgjzfA3vbBz/giphy.gif" width="600" height="350">
 
